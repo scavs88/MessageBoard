@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\spcav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\spcav\\.nuget\\packages"
+    ]
+  }
+}
